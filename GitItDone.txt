@@ -1,0 +1,4 @@
+>$ git add GitItDone.txt
+>$ git commit GitItDone.txt
+>$ git fetch GitAssignment
+>$ git push GitAssignment master
